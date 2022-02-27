@@ -31,3 +31,20 @@
     border-radius: 20px;
     margin: 10px 0;
 }
+.col-10{
+    border: 1px solid black;
+}
+.col-12{
+    border: 1px solid black;
+}
+.col-s-12{
+    height: 50px;
+}
+.col-md-4{
+    height: 50px;
+    border: 1px solid red;
+}
+.col-s-12{
+    height: 50px;
+    border: 1px solid red;
+}
